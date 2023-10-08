@@ -1,0 +1,4 @@
+displayName = [1.4.4] Storm Weaver Mod
+author = DozeZoze
+version = 2.0
+modReferences = CalamityMod
